@@ -57,14 +57,3 @@ void main() {
   print("Let's build something amazing together!");
 })
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/draculanaim)
-
-## 🏆 Projects Highlight
-
-- **Flutter E-Commerce App**: Complete mobile store with Firebase backend
-- **Java Inventory System**: Desktop application for small businesses
-- **Python Data Analyzer**: CSV data processing and visualization tool
-
-
-void main() {
-  print("Let's build something amazing together!");
-}

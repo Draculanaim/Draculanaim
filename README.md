@@ -39,9 +39,10 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-naimur-rahman4755/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/draculanaim)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:# Hello World! 👋 I'm Md Naimur Rahman (DraculaNaim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_%40naimur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-naimur-rahman4755/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow_%40draculanaim-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/draculanaim)
+[![Gmail](https://img.shields.io/badge/Gmail-naimurrahman4755-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimurrahman4755@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@draculanaim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/draculanaim)
 
 🚀 Aspiring Software Engineer | 💻 Flutter Developer | 📚 Computer Science Finalist
 
